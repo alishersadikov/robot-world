@@ -1,1 +1,21 @@
+/*body {
+    background-image: url("http://wallarthd.com/wp-content/uploads/2014/10/3D-Human-Robot-Wallpaper-High-Definition.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}*/
 
+.navbar-default {
+    background-color: silver;
+    border-color: black;
+}
+
+.navbar-default .navbar-nav > li > a {
+   color: black;
+    }
+
+.jumbotron {
+  background-color: silver;
+  height: 50vh;
+  width: 70vh;
+  margin-left: 100px
+}
